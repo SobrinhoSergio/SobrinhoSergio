@@ -1,18 +1,22 @@
-<div style="text-align: center; ">
-<h1> Fala, Dev! </h1>
-<h3 style="#888"> Sou Desenvolvedor iniciante na área de  Web </h3>
-</div>
-<hr/>
+<p align= "center"><a href="github.com/SobrinhoSergio"><img src="imagens/meu_github.png" alt="meu github"></a> &nbsp; &nbsp; &nbsp; <a href="http://linkedin.com/in/sobrinhosergio"><img src="imagens/meu_linkedin.png" alt="meu linkedin"></a> &nbsp; &nbsp; &nbsp; <a href="mailto:sobrinhosergio00@gmail.com"><img src="imagens/meu_email.png" alt="meu email"></a> </p>
 
-<div style="text-align: center; ">
-🎓 Sistemas de Informação CEFET-RJ/ Nova Friburgo. </p>
+<h1 align="center"> Fala, Dev! </h1>
+<h3 align="center"> Sou Desenvolvedor iniciante na área da Web. <img src="imagens/web.png"></h3>
+<p align="center">⚊</p>
 
-🔰 📍 Nova Friburgo - Rio de Janeiro, Brazil
+<p align="center">
+    ➤ Cursando Sistemas de Informação CEFET-RJ/ Nova Friburgo. <br>
+    <br>
+    ➤ Nova Friburgo - Rio de Janeiro, Brazil <br>
+    <br>
+    ➤ Meu Portifólio: <a href="sobrinhosergio.github.io">sobrinhosergio.github.io</a><br>
+    <br>
+    ➤ Going to the next level <img src="imagens/foguete01.png"><br>
+    <br>
+    ➤ <i>HTML, CSS, JavaScript, Responsividade, Bootstrap, ReactJs, Git e PHP POO.</i>
+</p>
 
-💻 Tecnologias: HTML, CSS, JavaScript, PHP7, POO, Bootstrap, ReactJs, Git e GitHub.
+<p align="center">⚊</p>
+<p align="center"> <img src="imagens/ideia.png"> <strong> "Em constante aprendizagem, para me tornar um profissional mais qualificado e que possa contribuir com o aprendizado de outros devs. "</strong> </p> 
 
-🔍 Meu Portifólio: [em construção]()
-
-</div>
-<hr/>
-<div style="text-align: center; ">🏹 🥇 "Em constante aprendizagem, para me tornar um profissional mais qualificado e que possa contribuir com o aprendizado de outros devs. " 🚀 </div>
+ 
