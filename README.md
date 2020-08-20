@@ -1,6 +1,6 @@
 <h1> Fala, Dev! 👋 Sou o Sérgio Sobrinho. </h1><br>
 
-<p><a href="https://github.com/SobrinhoSergio"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_github01.png" alt="meu github"></a> &nbsp; &nbsp; &nbsp; <a href="http://linkedin.com/in/sobrinhosergio"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_linkedin012.png" alt="meu linkedin"></a> &nbsp; &nbsp; &nbsp; <a href="mailto:sobrinhosergio00@gmail.com"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_email01.png" alt="meu email"></a> </p>
+<p><a href="https://github.com/SobrinhoSergio"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_github10.png" alt="meu github"></a> &nbsp; &nbsp; &nbsp; <a href="http://linkedin.com/in/sobrinhosergio"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_linkedin10.png" alt="meu linkedin"></a> &nbsp; &nbsp; &nbsp; <a href="mailto:sobrinhosergio00@gmail.com"><img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/meu_email10.png" alt="meu email"></a> </p>
 
 <h3> Sou Desenvolvedor iniciante na área da Web. <img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/web.png"></h3><br>
 
