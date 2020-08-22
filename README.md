@@ -14,5 +14,5 @@
 * 🚀 | Going to the next level<br>
 * 💻 | <i>HTML, CSS, JavaScript, Responsividade, Bootstrap, ReactJs, Git e PHP POO.</i><br>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/ideia.png"> <strong> "Em constante aprendizagem, para me tornar um profissional mais qualificado e que possa contribuir com o aprendizado de outros devs. "</strong> </p> 
+<p align="center"> <!--<img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/ideia.png">--> <strong> "Em constante aprendizagem, para me tornar um profissional mais qualificado e que possa contribuir com o aprendizado de outros devs. "</strong> </p> 
 
