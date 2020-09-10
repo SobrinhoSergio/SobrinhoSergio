@@ -13,7 +13,7 @@
 * 📄 | Meu Portifólio: <a href="sobrinhosergio.github.io">sobrinhosergio.github.io</a><br>
 * 🚀 | Going to the next level<br>
 * 👇 | Confira meus repositórios aqui no Github
-* 💻 | <i>HTML, CSS, JavaScript, Responsividade, Bootstrap, ReactJs, Git e PHP POO.</i><br>
+* 💻 | <i>HTML, CSS, JavaScript, Responsividade, ReactJs, Git e PHP POO.</i><br>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/sobrinhosergio/sobrinhosergio/master/imagens/ideia.png"> <strong> "Em constante aprendizagem, para me tornar um profissional mais qualificado e que possa contribuir com o aprendizado de outros devs. "</strong> </p> 
 
