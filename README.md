@@ -10,7 +10,7 @@
 
 * 🎓 | Cursando Sistemas de Informação - CEFET-RJ/ Nova Friburgo. <br>
 * 🌍 | Nova Friburgo - Rio de Janeiro, Brazil <br>
-* 📄 | Meu Portifólio: <a href="sobrinhosergio.github.io">sobrinhosergio.github.io</a><br>
+* 📄 | Meu Portifólio: <a href="https://sobrinhosergio.github.io/">sobrinhosergio.github.io</a><br>
 * 🚀 | Going to the next level<br>
 * 💻 | <i>HTML, CSS, JavaScript, Responsividade, ReactJs, Git e PHP POO.</i><br>
 
