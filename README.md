@@ -11,11 +11,11 @@
 <p>Fala, Dev! :sunglasses: Aqui é o Sérgio Sobrinho, Desenvolvedor de Software Júnior. Faço faculdade de Sistemas de Informação no CEFET-RJ Unidade Nova-Friburgo. Já desenvolvi alguns projetos para colocar em prática os conhecimentos obtidos em cada tecnolologia de programação. Procuro todo dia aprender um pouco mais sobre programação para crescer cada vez como profissional <a href="https://sobrinhosergio.github.io">Portifólio</a>.</p> 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sobrinhosergio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ### Olá, sou o Sérgio Sobrinho
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SérgioSobrinho&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=SergioSobrinho&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
