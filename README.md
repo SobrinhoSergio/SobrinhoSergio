@@ -8,11 +8,24 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&http://https://linkedin.com/in/sobrinhosergio" /></a>
 </p>
 
-<p>Fala, Dev! :sunglasses: Aqui é o Sérgio Sobrinho, Desenvolvedor de Software Júnior. Faço faculdade de Sistemas de Informação no CEFET-RJ Unidade Nova-Friburgo. Já desenvolvi alguns projetos para colocar em prática os conhecimentos obtidos em cada tecnolologia de programação. Procuro todo dia aprender um pouco mais sobre programação para crescer cada vez como profissional <a href="https://sobrinhosergio.github.io">Portifólio</a>.</p> 
+### Fala, Dev! :sunglasses: Aqui é o Sérgio Sobrinho 
+
+<p> <strong>Desenvolvedor de Software Júnior</strong>. Sistemas de Informação, CEFET-RJ Unidade Nova Friburgo. <br/>Busco sempre estar em constante evolução, para me tornar um profissional mais capacitado e poder, de alguma forma, ajudar no desenvolvimento de outras pessoas. Meu Portifólio: <a href="https://sobrinhosergio.github.io">sobrinhosergio.github.io</a></p> 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sobrinhosergio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sobrinhosergio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SergioSobrinho&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 
