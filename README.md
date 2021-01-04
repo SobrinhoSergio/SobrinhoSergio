@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&http://https://linkedin.com/in/sobrinhosergio" /></a>
 </p>
 
-### Fala, Dev! :sunglasses: Aqui é o Sérgio Sobrinho 
+## Fala, Dev! :sunglasses: Aqui é o Sérgio Sobrinho 
 
-<p> <strong>Desenvolvedor de Software Júnior</strong>. Sistemas de Informação, CEFET-RJ Unidade Nova Friburgo. <br/>Busco sempre estar em constante evolução, para me tornar um profissional mais capacitado e poder, de alguma forma, ajudar no desenvolvimento de outras pessoas. Meu Portifólio: <a href="https://sobrinhosergio.github.io">sobrinhosergio.github.io</a></p> 
+#### <p> <strong>Desenvolvedor de Software Júnior</strong>. Sistemas de Informação, CEFET-RJ Unidade Nova Friburgo. <br/>Busco sempre estar em constante evolução, para me tornar um profissional mais capacitado e poder, de alguma forma, ajudar no desenvolvimento de outras pessoas. Meu Portifólio: <a href="https://sobrinhosergio.github.io">sobrinhosergio.github.io</a></p> 
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sobrinhosergio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
