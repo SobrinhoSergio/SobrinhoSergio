@@ -16,10 +16,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
 </a>
 
-<a  href="https://github.com/SobrinhoSergio/" >
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
-</a>
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=SergioSobrinho&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ## 🚀 Minhas Skills
@@ -32,3 +28,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+
+<a  href="https://github.com/SobrinhoSergio/" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
+</a>
