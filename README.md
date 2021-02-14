@@ -12,13 +12,9 @@
 
 <p> <strong>Desenvolvedor de Software Júnior</strong>. Sistemas de Informação, CEFET-RJ Unidade Nova Friburgo. <br/>Busco sempre estar em constante evolução, para me tornar um profissional mais capacitado e poder, de alguma forma, ajudar no desenvolvimento de outras pessoas. Meu Portifólio: <a href="https://sobrinhosergio.github.io">sobrinhosergio.github.io</a></p> 
 
-<p align='right'>
 [![SobrinhoSergio](https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default)](https://github.com/SobrinhoSergio/)
-</p>
-
-<p  align='left'>
 [![SobrinhoSergio](https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default)](https://github.com/SobrinhoSergio/)
-</p>
+
 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SergioSobrinho&color=f8efd4&style=for-the-badge&logo=GitHub">
