@@ -9,23 +9,14 @@
 
 </p>
 
-<p> Desenvolvedor de Software e cursando em Sistemas de Informação, CEFET/RJ - Nova Friburgo. <br/> 
+<p> Desenvolvedor de Software e cursando em Sistemas de Informação, CEFET/RJ - Nova Friburgo.</p>
 
-<<<<<<< HEAD
-<a href="https://sobrinhosergio.github.io/LinkDev-Sergio/">
-<img src="https://img.shields.io/badge/Meu LinkDev-000000?style=for-the-badge&logo=site&logoColor=white"></a></p> 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sobrinhosergio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-=======
 <a  href="https://github.com/SobrinhoSergio/" >
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
 </a>
->>>>>>> d454753faf0c16a168ae397a3cc91c6883d24176
 
 ## 🚀 Minhas Skills
 
-<<<<<<< HEAD
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -37,27 +28,17 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<a  href="https://github.com/SobrinhoSergio/" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
-</a>
+
 
 <!--<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-=======
->>>>>>> d454753faf0c16a168ae397a3cc91c6883d24176
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<<<<<<< HEAD
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>-->
-=======
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT"/></code>
->>>>>>> d454753faf0c16a168ae397a3cc91c6883d24176
 
 <a  href="https://github.com/SobrinhoSergio/" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
