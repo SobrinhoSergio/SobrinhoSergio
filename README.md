@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=wh" /></a>
 </p>
 
-* Desenvolvedor Full - Stack
+* Desenvolvedor Full - Stack 
 * Cursando Sistemas de Informação em CEFET - RJ / Nova Friburgo 
 * Procuro ser autoditada em Tecnologia da Informação
-* Meu Web Site : <a href="https://sobrinhosergio.github.io/">sobrinhosergio.github.io</a>
+* Meu Web Site : <a href="https://portifolio-sergio-dev.vercel.app/">portifolio-sergio-dev.vercel.app</a>
 
 ## 🚀 Minhas Skills
 
