@@ -1,4 +1,4 @@
-# Fala, Dev! Aqui é o Sérgio Sobrinho 
+# Desenvolvedor Full Stack 
 
 <p> 
   <a href="mailto:sobrinhosergio00@gmail.com" alt="Gmail">
@@ -7,27 +7,43 @@
   <a href="https://linkedin.com/in/sobrinhosergio" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="https://github.com/in/sobrinhosergio" alt="GitHub">
+  <a href="https://github.com/sobrinhosergio" alt="GitHub">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=wh" /></a>
+
+  <a href="https://www.instagram.com/sergiosob_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/sergio.sobrinho.9638/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
 </p>
 
-* Desenvolvedor Full - Stack 
-* Cursando Sistemas de Informação em CEFET - RJ / Nova Friburgo 
-* Procuro ser autoditada em Tecnologia da Informação
+* Cursando Sistemas de Informação em CEFET-RJ/Nova Friburgo 
+* Procurando sempre ser autoditada
 * Meu Web Site : <a href="https://portifolio-sergio-dev.vercel.app/">portifolio-sergio-dev.vercel.app</a>
 
 ## 🚀 Minhas Skills
 
 <p>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## Experiência de trabalho
+
+<p>
+  
 
 </p>
+
 
 <a  href="https://github.com/SobrinhoSergio/" >
 <img  src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
