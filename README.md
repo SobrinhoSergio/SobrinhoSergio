@@ -10,7 +10,7 @@
   <a href="https://github.com/sobrinhosergio" alt="GitHub">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=wh" /></a>
 
-  <a href="https://www.instagram.com/sergiosob_/">
+  <a href="https://www.instagram.com/sergio.sobrinho7/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
