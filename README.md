@@ -21,7 +21,7 @@
 
 ## Experiência de trabalho
 
-<p>
+<p style="display: inline_block">
   <a  href="https://github.com/SobrinhoSergio/" >
     <img  src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
   </a>
