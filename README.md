@@ -1,4 +1,4 @@
-# Fala Dev., sou o Sérgio Sobrinho, Dev. Web Full Stack Jr.
+# Fala Dev, sou o Sérgio Sobrinho, Dev. Web Full Stack Jr.
 
 ## 🚀 Minhas Skills
 
@@ -22,7 +22,7 @@
 ## Experiência de trabalho
 
 <p>
-  <a  href="https://github.com/SobrinhoSergio/" >
+  <a  href="https://github.com/SobrinhoSergio/" style="display: inline-block">
     <img  src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
   </a>
