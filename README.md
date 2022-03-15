@@ -22,9 +22,9 @@
 ## Experiência de trabalho
 
 <p>
-  <a  href="https://github.com/SobrinhoSergio/" style="display: inline-block">
-    <img  src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
+  <a  href="https://github.com/SobrinhoSergio/" style="display: inline_block">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SobrinhoSergio&theme=default">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrinhoSergio&hide=html&layout=compact&theme=default">
   </a>
 </p>
 
