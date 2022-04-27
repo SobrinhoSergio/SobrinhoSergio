@@ -10,13 +10,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 * Cursando Sistemas de Informação em CEFET-RJ/Nova Friburgo 
 * Procurando sempre ser autoditada
-* Meu Web Site : <a href="https://portifolio-sergio-dev.vercel.app/">portifolio-sergio-dev.vercel.app</a>
+* Meu Web Site : <a href="https://profile-sergio-dev.vercel.app/">Profile Web</a>
 * Estagiário em TI na <a href="https://www.friweb.com.br/">Friweb</a>
 
 ## Experiência de trabalho
@@ -39,11 +41,11 @@
   <a href="https://github.com/sobrinhosergio" alt="GitHub">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=wh" /></a>
 
-  <a href="https://www.instagram.com/sergio.sobrinho7/">
+  <a href="https://www.instagram.com/sergio.sob7/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.facebook.com/sergio.sobrinho.9638/">
+  <a href="https://www.facebook.com/sergio.sobrinho.9638/" alt="Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
