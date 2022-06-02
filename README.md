@@ -19,7 +19,6 @@
 * Cursando Sistemas de Informação em CEFET-RJ/Nova Friburgo 
 * Procurando sempre ser autoditada
 * Meu Web Site : <a href="https://profile-sergio-dev.vercel.app/">Profile Web</a>
-* Estagiário em TI na <a href="https://www.friweb.com.br/">Friweb</a>
 
 ## Experiência de trabalho
 
