@@ -18,7 +18,7 @@
 
 * Cursando Sistemas de Informação em CEFET-RJ/Nova Friburgo 
 * Procurando sempre ser autoditada
-* Meu Web Site : <a href="https://profile-sergio-dev.vercel.app/">Profile Web</a>
+* Meu Web Site : <a href="https://profile-sergio.vercel.app/">Profile Web</a>
 
 ## Experiência de trabalho
 
