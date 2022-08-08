@@ -18,6 +18,7 @@
 
 * Cursando Sistemas de Informação em CEFET-RJ/Nova Friburgo 
 * Procurando sempre ser autoditada
+* Estagiário na **RG Sistemas**
 * Meu Web Site : <a href="https://profile-sergio.vercel.app/">Profile Web</a>
 
 ## Experiência de trabalho
