@@ -1,7 +1,7 @@
 # Sobre mim 🏆 
 
-* Meu nome é **Sérgio Sobrinho**, Desenvolvedor Jr. Full Stack
-* Cursando Sistemas de Informação  
+* Meu nome é **Sérgio Sobrinho**, Desenvolvedor Jr. Full Stack 🌱
+* Cursando Sistemas de Informação  🎓
 * Web Site : <a href="https://bio-omega.vercel.app/">Link Dev 😎</a>
 * Buscando sempre viver o melhor da programação 💖✨
 
