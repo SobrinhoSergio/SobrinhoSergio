@@ -44,7 +44,3 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:sobrinhosergio00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sobrinhosergio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/sobrinhosergio)
-
----
-
-👉 Você quer que eu mantenha as **estatísticas do GitHub** ou prefere ainda mais minimalista, só com perfil, tecnologias e contatos?
