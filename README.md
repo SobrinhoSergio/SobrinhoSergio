@@ -27,9 +27,16 @@ Atuo com:
 ### Automação & Testes
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000?style=flat&logo=robotframework&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat&logo=githubactions&logoColor=white)
+
 
 ---
 
